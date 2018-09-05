@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=8qEnExGLZfY (Good explanation of cProfile)
+# https://zapier.com/engineering/profiling-python-boss/ (The method do_cprofile is taken from here)
+
 import cProfile
 
 def do_cprofile(func):
